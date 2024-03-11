@@ -7,3 +7,4 @@ Jeu de ChiFouMi tour par tour, on commence par rentrer son nom ensuite on joue t
 Si on écrit mal "pierre", "feuille" ou "ciseaux" ça donne le point au BOT
 /!\ATTENTION /!\
 
+Rajout des TP fait en cours dans ce projet
